@@ -1,4 +1,4 @@
 name: QuestCreatorHookExample
-version: 1.0.0
+version: 1.0.1
 main: be.pyrrh4.questcreatorhookexample.Main
 depend: [QuestCreator]
